@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "email": "arunkumar@gmail.com",
+      "password": "12345",
+      "username": "Arun Jawlia",
+      "id": 1
+    },
+    {
+      "email": "arun",
+      "password": "123",
+      "username": "arun ",
+      "id": 2
+    }
+  ],
+  "tasks": [
+    {
+      "task": "abcdef",
+      "id": 1
+    },
+    {
+      "task": "abcdef",
+      "id": 2
+    },
+    {
+      "task": "abc",
+      "id": 3
+    },
+    {
+      "task": "abcd",
+      "id": 4
+    },
+    {
+      "task": "abcdf",
+      "id": 5
+    }
+  ]
+}
